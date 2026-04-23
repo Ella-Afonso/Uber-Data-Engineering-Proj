@@ -7,8 +7,7 @@ An end-to-end real-time data engineering pipeline for a ride-booking platform, b
 ---
 
 ## 📐 Architecture
-![project.png](attachment:project.png)
-
+![architecture](templates/architecture.png)
 ---
 
 ## ✨ Key Features
